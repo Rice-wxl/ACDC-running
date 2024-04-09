@@ -1,1 +1,1 @@
-python experiments/launch_induction.py
+python experiments/launch_induction.py --testing
